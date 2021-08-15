@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @l-jax. I'm a scientist/writer turned software engineer
-- 👀 I’m interested in automating difficult things, writing programs that read like a story, and helping more women learn to code
+- 👀 I’m interested in automating difficult things, writing code that reads like a story, and helping more women get into the tech industry
 - 🌱 I’m currently learning natural language processing and kubernetes
 - 💞️ I’m looking to collaborate on projects that help lots of people learn new things for free
 
