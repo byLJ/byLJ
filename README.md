@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l-jax. I'm a software engineer and a writer
 - 👀 I’m interested in automating difficult things and writing code that reads like a story
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on projects that help lots of people learn new things for free
 
 <!---
