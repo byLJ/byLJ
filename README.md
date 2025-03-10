@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm a **software engineer** and a **writer** currently building a bank 🏦 
+I'm a **software engineer** and a **writer**
 
 🛠️ `.java` `.sql` `.tf`
 
